@@ -1,0 +1,50 @@
+# BSASystems Introduction
+
+##### @ Introduction Repository
+
+
+
+Our passion is to make mods for multiple things
+
+We will use GitHub for our miscellaneous creations, such as:
+
+
+
+\*\*REQUIRES ADMIN RIGHTS TO BEGIN\*\*
+
+
+
+Mods for The Sims and SimCity franchises
+
+Example: Recolors of Maxis content
+
+
+
+CC Buildings for Skyscrapersim 2.0
+
+Example: Recreating East Building @ *(Luanti) daconcepts.com, 37000*
+
+How: Created using a Scratch project
+
+
+
+\*\*END\*\*
+
+
+
+Luanti (*aka. Minetest*)
+
+Retexturing mods to use for anyone's texture pack.
+
+(*No mods or games yet, the learning curve is steep*)
+
+
+
+Sandboxels (*either in browser or Steam*)
+
+My creations
+
+
+
+Et cetera.
+
